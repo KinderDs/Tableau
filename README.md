@@ -5,6 +5,7 @@
 </h1>
 </div>
   <img align="centre" alt="GIF" src="https://github.com/SoFarWithoutName/SoFarWithoutName/assets/159808135/4987bf1d-9cbd-4207-908f-1f54ee180fad?raw=true" width ="300" height="150"/>
+  
 ### :man_technologist: Обо мне:
 
 Я начинающий аналитик данных. Мой тернистый путь знакомства с аналитикой начался с онлайн-школы Data Science Karpov.Courses, где я закончил курс "Аналитик данных" и "Симулятор SQL". Укрепил своё желание изучать аналитику - участием в Антихакатоне ВкусВилл. 
