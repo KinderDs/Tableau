@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-  <img align="center" alt="GIF" src="https://github.com/SoFarWithoutName/SoFarWithoutName/assets/159808135/4987bf1d-9cbd-4207-908f-1f54ee180fad?raw=true" width ="300" height="150"/>
+<div align='center'>
+  <img alt="GIF" src="https://github.com/SoFarWithoutName/SoFarWithoutName/assets/159808135/4987bf1d-9cbd-4207-908f-1f54ee180fad?raw=true" width ="300" height="150"/>
+</div>
   
 ### :man_technologist: Обо мне:
 
