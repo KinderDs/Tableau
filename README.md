@@ -20,7 +20,9 @@
 
 * 🥇 Закончил курс по анализу данных Data Science Karpov.Courses! Сертификат [тут](https://lab.karpov.courses/certificate/cba5e2ac-1cc5-429c-97ff-6589c7306090/)👈
   
-* 🥈 Прошёл "Cимулятор SQL" Data Science Karpov.Courses! Сертификат [тут](https://lab.karpov.courses/certificate/35751876-a7d3-4a3d-b513-0308462e16a8/)👈
+* 🥈 Прошёл "Cимулятор SQL" Data Science Karpov.Courses!
+
+  Сертификат [тут](https://lab.karpov.courses/certificate/35751876-a7d3-4a3d-b513-0308462e16a8/)👈
 
 * 🥉 Прошёл курс "Основы статистики" на Stepik! Сертификат [тут](https://stepik.org/cert/1596560)👈
   
