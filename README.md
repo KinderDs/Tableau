@@ -31,23 +31,13 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[A/B тест!](https://github.com/SoFarWithoutName/AB_test)|Разведочный анализ данных EDA, расчёт метрик, определение статистической значимости различий (t-test,Хи-квадрат,bootstrap) |**Pandas** **Numpy** **Scipy** **Seaborn** **Matplotlib** **Pingouin**|
-|[Анализ продуктовых метрик мобильного приложения](https://github.com/DimDolino/Gamedev_analysis)|Формирование когорт по дате регистрации в приложении, проведение А/B теста и bootstrap для определения значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Tdqm** **Seaborn** **Requests**|
-|[Анализ e-learning продукта](https://github.com/DimDolino/E-learning_project)|Формирование файлов с данными, предобработка данных, формирование рейтингов и антирейтигов курсов, анализ успеваемости студентов.|**Pandas** **Numpy** **Requests**|
-|[Исследуем набор карт Magic The Gathering](https://github.com/DimDolino/Magic_the_Gathering)|Обрабатываем данные, формируем графики для ответа на вопросы о составе набора для выпуска нового дополнения к игре|**Pandas** **Numpy** **Ast**|
-|Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/dmitriy7276/viz/KarpovDashboardPractice_16519275094660/SalesMonthlyOverview) и [Yandex Datalens](https://datalens.yandex.ru/syjtr3o11ppwi-profit-overview)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau** **Yandex Datalens**|
+|[Когортный и RFM анализы!](https://github.com/SoFarWithoutName/RFM_analysis)|Анализ совершённых покупок; Когортный анализ пользователей; RFM-сегментация пользователей.|**Pandas** **Numpy** **Seaborn** **Matplotlib**|
+|[SQL](https://github.com/SoFarWithoutName/SQL)|Анализ данных с помощью SQL-запросов в ClickHouse.|**SQL** **ClickHouse** **Pandahouse**|
+|[Собираем дашборд в Tableau](https://github.com/SoFarWithoutName/Tableau)|Собираем дашборд для анализа вакансий отрасли "Аналитик данных" |**Tableau**|
 
 </div>  
 </details>
 
-
-За время обучения на курсе "Аналитик данных" и проектную деятельность мной выполнено около 25 проектов. Здесь собрал наиболее интересные:
-|Название проекта| Описание проекта| Стек|
-|----------------|-----------------|-----|
-|[Поиск мошенников через аналитику данных](https://github.com/DimDolino/Find_the_Thief)|Предобработка данных, создание скрипта поиска "связанных" данных, вывод клиентов, выполнивших ключевое действие.|**Pandas** **Numpy**|
-|[Анализ продуктовых метрик мобильного приложения](https://github.com/DimDolino/Gamedev_analysis)|Формирование когорт по дате регистрации в приложении, проведение А/B теста и bootstrap для определения значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Tdqm** **Seaborn** **Requests**|
-|[Анализ e-learning продукта](https://github.com/DimDolino/E-learning_project)|Формирование файлов с данными, предобработка данных, формирование рейтингов и антирейтигов курсов, анализ успеваемости студентов.|**Pandas** **Numpy** **Requests**|
-|[Исследуем набор карт Magic The Gathering](https://github.com/DimDolino/Magic_the_Gathering)|Обрабатываем данные, формируем графики для ответа на вопросы о составе набора для выпуска нового дополнения к игре|**Pandas** **Numpy** **Ast**|
-|Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/dmitriy7276/viz/KarpovDashboardPractice_16519275094660/SalesMonthlyOverview) и [Yandex Datalens](https://datalens.yandex.ru/syjtr3o11ppwi-profit-overview)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau** **Yandex Datalens**|
 
 
 
