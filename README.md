@@ -1,12 +1,27 @@
 <div align='center'>
 <h1>
-  SQL
+ Привет, меня зовут Николай!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align='center'>
-    <img src="https://img.shields.io/badge/Tableau-%23AFEEEE?style=for-the-badge&logo=Tableau&logoColor=%23E97627"/>
-</div>
+
+### :man_technologist: Обо мне:
+
+Я начинающий аналитик данных. Мой тернистый путь знакомства с аналитикой начался с онлайн-школы Data Science Karpov.Courses, где я закончил курс "Аналитик данных" и "Симулятор SQL". Укрепил своё желание изучать аналитику - участием в Антихакатоне ВкусВилл. 
+  <img align="right" alt="GIF" src="https://github.com/SoFarWithoutName/SoFarWithoutName/assets/159808135/4987bf1d-9cbd-4207-908f-1f54ee180fad?raw=true" width ="300" height="150"/>
+
+«То, что очевидно для вас, не очевидно для других» - 
+стремлюсь превращать неочевидные закономерности в очевидные!
+
+
+
+* 🥇 Закончил курс по анализу данных Data Science Karpov.Courses!
+  
+* 🥈 Прошёл "Cимулятор SQL" Data Science Karpov.Courses!
+
+* 🥉 Прошёл курс "Основы статистики" на Stepik! 
+  
+* ✉️ Как связаться со мной:  [![Telegram Badge](https://img.shields.io/badge/-NikolyaVorontsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoFarWithoutName) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nnvorontsov95@gmail.com)
 
 ## В данном проекте собрал дашборд из данных датасета с вакансиями аналитиков, которые нашлись по какому-то ключевому запросу на сайте hh за 2021 год.
 Подсветил вопросы:
