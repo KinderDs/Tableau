@@ -21,6 +21,6 @@
 <details>
   <summary><b> 🛠 &nbsp;&nbsp;Ссылка на дашборд:&nbsp;</b></summary>
 
-https://clck.ru/3987xs
+[Ссылка тут](https://clck.ru/3987xs)
 
 </details>
