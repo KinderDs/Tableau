@@ -18,9 +18,7 @@
 
 ![image](https://github.com/KinderDs/Tableau/assets/163444205/dd8aeb95-3713-4e22-b7b4-8e28e41dbf68)
 
-<details>
-  <summary><b> 🛠 &nbsp;&nbsp;Ссылка на дашборд:&nbsp;</b></summary>
+ ❗Ссылка на дашборд [тут](https://clck.ru/3987xs)👈
 
-[Ссылка тут](https://clck.ru/3987xs)
 
-</details>
+
