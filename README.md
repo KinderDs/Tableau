@@ -18,7 +18,7 @@
 
 
 
-* 🥇 Закончил курс по анализу данных Data Science Karpov.Courses! Сертификат [тут](https://lab.karpov.courses/certificate/cba5e2ac-1cc5-429c-97ff-6589c7306090/)👈
+* 🥇 Закончил курс по анализу данных Data Science Karpov.Courses! [Сертификат](https://lab.karpov.courses/certificate/cba5e2ac-1cc5-429c-97ff-6589c7306090/)👈
   
 * 🥈 Прошёл "Cимулятор SQL" Data Science Karpov.Courses!
 
